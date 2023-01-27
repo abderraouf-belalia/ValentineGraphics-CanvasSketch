@@ -1,0 +1,3 @@
+declare module 'canvas-sketch'
+
+// TODO fill this ...
